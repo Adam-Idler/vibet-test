@@ -16,7 +16,7 @@ function iOS() {
   console.log(iOS());
 
   if (iOS()) {
-    viberButton.setAttribute('href', 'viber://add?number=639985607431')
+    viberButton.setAttribute('href', 'viber://add?number=79505713018')
   } else {
-    viberButton.setAttribute('href', 'viber://chat?number=639985607431')
+    viberButton.setAttribute('href', 'viber://chat?number=79505713018')
   }
